@@ -1,0 +1,6 @@
+The functions to use are in the module solvers.
+
+The module test_solvers can run 2 simulations of a gaussian packet
+with both a scalar version and a vectorized one.
+
+I don't see much difference though

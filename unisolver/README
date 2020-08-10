@@ -1,0 +1,5 @@
+Unfinished, but working, universial FEM solver as class.
+
+Include L-bend mesh generator /w refinement as class, potential based solver and velocity based solver.
+
+Test of solver also included
